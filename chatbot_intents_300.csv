@@ -1,0 +1,301 @@
+text,intent
+How's the weather today?,other
+Do you like music?,other
+Find me price listings for Laptop Stand,compare_prices
+Whats the cheapest Kindle Paperwhite?,get_cheapest
+Show me the cheapest deal for Noise Cancelling Headphones,get_cheapest
+Where can I buy the cheapest Desk Lamp?,get_cheapest
+Who sells Smartphone Case for the least?,get_cheapest
+Find me price listings for PlayStation 5,compare_prices
+Show price variations for Backpack,compare_prices
+Find the lowest price for Noise Cancelling Headphones,get_cheapest
+Find the lowest price for Smartphone Case,get_cheapest
+Get me the most affordable PlayStation 5,get_cheapest
+Open Google.,other
+Compare online prices of HP OfficeJet Printer,compare_prices
+Compare prices for Tablet,compare_prices
+Show me the cheapest deal for Wireless Mouse,get_cheapest
+Can you help me with homework?,other
+Show me the cheapest deal for AirPods Pro,get_cheapest
+What is the capital of France?,other
+What's your favorite movie?,other
+Tell me a joke.,other
+Show me the cheapest deal for AirPods Pro,get_cheapest
+Where can I buy the cheapest Apple Watch?,get_cheapest
+Show price variations for Ergonomic Chair,compare_prices
+What is the capital of France?,other
+What is 2 + 2?,other
+Compare the cost of Gaming Laptop,compare_prices
+Compare the cost of Smartphone Case,compare_prices
+Can you help me with homework?,other
+Where can I buy the cheapest Coffee Maker?,get_cheapest
+Open Google.,other
+What is the capital of France?,other
+What is the capital of France?,other
+Do you like music?,other
+Do you dream?,other
+How cheap can I get Wireless Mouse?,get_cheapest
+Who won the World Cup?,other
+Cheapest available Wireless Mouse?,get_cheapest
+Who won the World Cup?,other
+Show me the cheapest deal for Samsung Galaxy S23,get_cheapest
+Do you dream?,other
+Search product pricing for AirPods Pro,compare_prices
+Can you help me with homework?,other
+What is the capital of France?,other
+Lowest cost for Apple Watch right now?,get_cheapest
+Lowest cost for Bluetooth Speaker right now?,get_cheapest
+Who won the World Cup?,other
+What is 2 + 2?,other
+Can you help me with homework?,other
+Find the lowest price for HP OfficeJet Printer,get_cheapest
+What is 2 + 2?,other
+Show me price comparisons of Xbox Series X,compare_prices
+What are the different prices for Canon DSLR Camera?,compare_prices
+Cheapest available iPhone 14?,get_cheapest
+Show me the cheapest deal for Desk Lamp,get_cheapest
+List all prices for Monitor Stand,compare_prices
+Can you help me with homework?,other
+How does the price of Xbox Series X differ by store?,compare_prices
+Best budget deal on AirPods Pro,get_cheapest
+Do you like music?,other
+Best budget deal on Apple Watch,get_cheapest
+Compare online prices of Backpack,compare_prices
+Whats the cheapest Monitor Stand?,get_cheapest
+Find the lowest price for Noise Cancelling Headphones,get_cheapest
+How does the price of Backpack differ by store?,compare_prices
+Get me the most affordable iPhone 14,get_cheapest
+Find the lowest price for PlayStation 5,get_cheapest
+Show price variations for Noise Cancelling Headphones,compare_prices
+Show me price comparisons of MacBook Pro,compare_prices
+What is 2 + 2?,other
+How does the price of Smart LED TV differ by store?,compare_prices
+How cheap can I get Tablet?,get_cheapest
+Compare the cost of Mechanical Keyboard,compare_prices
+Get me the most affordable MacBook Pro,get_cheapest
+Whats the cheapest Canon DSLR Camera?,get_cheapest
+What's your favorite movie?,other
+What are the different prices for MacBook Pro?,compare_prices
+How's the weather today?,other
+Tell me a joke.,other
+Search product pricing for Ergonomic Chair,compare_prices
+Compare online prices of AirPods Pro,compare_prices
+What is the capital of France?,other
+Tell me a joke.,other
+Compare online prices of Mechanical Keyboard,compare_prices
+Open Google.,other
+How cheap can I get Coffee Maker?,get_cheapest
+Open Google.,other
+Show me price comparisons of Noise Cancelling Headphones,compare_prices
+Compare the cost of Smart LED TV,compare_prices
+What are the different prices for Desk Lamp?,compare_prices
+How's the weather today?,other
+Tell me a joke.,other
+Tell me a joke.,other
+List all prices for Tablet,compare_prices
+What is 2 + 2?,other
+Who won the World Cup?,other
+Compare the cost of Desk Lamp,compare_prices
+Cheapest available Canon DSLR Camera?,get_cheapest
+List all prices for Xbox Series X,compare_prices
+Whats the cheapest Backpack?,get_cheapest
+What's your favorite movie?,other
+Whats the cheapest Ergonomic Chair?,get_cheapest
+Show me the cheapest deal for Wireless Mouse,get_cheapest
+Show price variations for Noise Cancelling Headphones,compare_prices
+Show price variations for Samsung Galaxy S23,compare_prices
+How's the weather today?,other
+Get me the most affordable Desk Lamp,get_cheapest
+Find the lowest price for iPhone 14,get_cheapest
+Lowest cost for Smartphone Case right now?,get_cheapest
+Search product pricing for Smartphone Case,compare_prices
+Do you dream?,other
+Compare the cost of Apple Watch,compare_prices
+Who sells Ergonomic Chair for the least?,get_cheapest
+Find me price listings for iPhone 14,compare_prices
+Show me price comparisons of Ergonomic Chair,compare_prices
+Search product pricing for Bluetooth Speaker,compare_prices
+What's your favorite movie?,other
+Show me the cheapest deal for Desk Lamp,get_cheapest
+Compare prices for AirPods Pro,compare_prices
+Do you dream?,other
+Search product pricing for PlayStation 5,compare_prices
+Lowest cost for iPhone 14 right now?,get_cheapest
+Do you dream?,other
+Tell me a joke.,other
+How's the weather today?,other
+How cheap can I get Smart LED TV?,get_cheapest
+Where can I buy the cheapest AirPods Pro?,get_cheapest
+Do you like music?,other
+Who sells Laptop Stand for the least?,get_cheapest
+Cheapest available Laptop Stand?,get_cheapest
+What is 2 + 2?,other
+Search product pricing for Xbox Series X,compare_prices
+Search product pricing for Bluetooth Speaker,compare_prices
+List all prices for PlayStation 5,compare_prices
+How cheap can I get MacBook Pro?,get_cheapest
+Whats the cheapest Backpack?,get_cheapest
+What is 2 + 2?,other
+What is 2 + 2?,other
+Find me price listings for Laptop Stand,compare_prices
+Best budget deal on PlayStation 5,get_cheapest
+Compare the cost of Smart LED TV,compare_prices
+What are the different prices for Desk Lamp?,compare_prices
+How does the price of Apple Watch differ by store?,compare_prices
+Where can I buy the cheapest Apple Watch?,get_cheapest
+Show price variations for Canon DSLR Camera,compare_prices
+Show price variations for Tablet,compare_prices
+What's your favorite movie?,other
+Cheapest available Laptop Stand?,get_cheapest
+How cheap can I get Backpack?,get_cheapest
+Show price variations for Smart LED TV,compare_prices
+Lowest cost for Monitor Stand right now?,get_cheapest
+Lowest cost for Coffee Maker right now?,get_cheapest
+Can you help me with homework?,other
+Compare the cost of AirPods Pro,compare_prices
+Find me price listings for Smart LED TV,compare_prices
+Best budget deal on Desk Lamp,get_cheapest
+Compare the cost of Kindle Paperwhite,compare_prices
+How cheap can I get MacBook Pro?,get_cheapest
+Who won the World Cup?,other
+How cheap can I get Monitor Stand?,get_cheapest
+Do you like music?,other
+Tell me a joke.,other
+Compare the cost of MacBook Pro,compare_prices
+Compare prices for Noise Cancelling Headphones,compare_prices
+Show me price comparisons of Mechanical Keyboard,compare_prices
+Do you like music?,other
+Where can I buy the cheapest Desk Lamp?,get_cheapest
+Get me the most affordable HP OfficeJet Printer,get_cheapest
+Show me price comparisons of Backpack,compare_prices
+Whats the cheapest AirPods Pro?,get_cheapest
+Who sells Kindle Paperwhite for the least?,get_cheapest
+Show me price comparisons of Backpack,compare_prices
+Find the lowest price for AirPods Pro,get_cheapest
+How cheap can I get Wireless Mouse?,get_cheapest
+Show me price comparisons of Desk Lamp,compare_prices
+What are the different prices for Apple Watch?,compare_prices
+What is 2 + 2?,other
+Whats the cheapest Canon DSLR Camera?,get_cheapest
+List all prices for Desk Lamp,compare_prices
+Do you dream?,other
+Show me price comparisons of Ergonomic Chair,compare_prices
+What's your favorite movie?,other
+Do you dream?,other
+Compare the cost of Smartphone Case,compare_prices
+Open Google.,other
+Can you help me with homework?,other
+How does the price of PlayStation 5 differ by store?,compare_prices
+Get me the most affordable Kindle Paperwhite,get_cheapest
+List all prices for MacBook Pro,compare_prices
+What's your favorite movie?,other
+What are the different prices for HP OfficeJet Printer?,compare_prices
+Do you like music?,other
+What are the different prices for Monitor Stand?,compare_prices
+Find the lowest price for Coffee Maker,get_cheapest
+Who sells Laptop Stand for the least?,get_cheapest
+Compare prices for Coffee Maker,compare_prices
+Get me the most affordable Laptop Stand,get_cheapest
+Who sells Backpack for the least?,get_cheapest
+Search product pricing for Tablet,compare_prices
+Compare prices for PlayStation 5,compare_prices
+Show me price comparisons of Wireless Mouse,compare_prices
+Lowest cost for Ergonomic Chair right now?,get_cheapest
+Where can I buy the cheapest Running Shoes?,get_cheapest
+Who won the World Cup?,other
+List all prices for Ergonomic Chair,compare_prices
+Compare online prices of Running Shoes,compare_prices
+Find me price listings for Smartphone Case,compare_prices
+Where can I buy the cheapest MacBook Pro?,get_cheapest
+Show me price comparisons of Coffee Maker,compare_prices
+Open Google.,other
+How cheap can I get Gaming Laptop?,get_cheapest
+What are the different prices for Bluetooth Speaker?,compare_prices
+Show me the cheapest deal for Smart LED TV,get_cheapest
+How cheap can I get Bluetooth Speaker?,get_cheapest
+Where can I buy the cheapest Kindle Paperwhite?,get_cheapest
+Lowest cost for Coffee Maker right now?,get_cheapest
+How's the weather today?,other
+List all prices for iPhone 14,compare_prices
+Search product pricing for Mechanical Keyboard,compare_prices
+Compare the cost of Mechanical Keyboard,compare_prices
+Who won the World Cup?,other
+What are the different prices for HP OfficeJet Printer?,compare_prices
+Lowest cost for Coffee Maker right now?,get_cheapest
+Open Google.,other
+Show me the cheapest deal for Tablet,get_cheapest
+Compare the cost of PlayStation 5,compare_prices
+Show me the cheapest deal for Laptop Stand,get_cheapest
+Get me the most affordable Tablet,get_cheapest
+Tell me a joke.,other
+How does the price of PlayStation 5 differ by store?,compare_prices
+Do you dream?,other
+What is the capital of France?,other
+How's the weather today?,other
+What's your favorite movie?,other
+List all prices for Backpack,compare_prices
+Find me price listings for Ergonomic Chair,compare_prices
+Where can I buy the cheapest iPhone 14?,get_cheapest
+Tell me a joke.,other
+Who won the World Cup?,other
+Open Google.,other
+Find me price listings for Monitor Stand,compare_prices
+Compare online prices of AirPods Pro,compare_prices
+Get me the most affordable Mechanical Keyboard,get_cheapest
+Show me price comparisons of Desk Lamp,compare_prices
+Cheapest available MacBook Pro?,get_cheapest
+Find the lowest price for Laptop Stand,get_cheapest
+Whats the cheapest Xbox Series X?,get_cheapest
+Show price variations for Smart LED TV,compare_prices
+Find me price listings for Monitor Stand,compare_prices
+Who sells Smart LED TV for the least?,get_cheapest
+What's your favorite movie?,other
+Cheapest available AirPods Pro?,get_cheapest
+Best budget deal on Tablet,get_cheapest
+Can you help me with homework?,other
+Compare prices for Bluetooth Speaker,compare_prices
+Who sells Noise Cancelling Headphones for the least?,get_cheapest
+Lowest cost for Running Shoes right now?,get_cheapest
+What is the capital of France?,other
+Find me price listings for Samsung Galaxy S23,compare_prices
+Can you help me with homework?,other
+How's the weather today?,other
+Best budget deal on Kindle Paperwhite,get_cheapest
+What is the capital of France?,other
+Show me price comparisons of Wireless Mouse,compare_prices
+How's the weather today?,other
+Compare online prices of PlayStation 5,compare_prices
+Open Google.,other
+What are the different prices for Apple Watch?,compare_prices
+Do you like music?,other
+Show me price comparisons of Gaming Laptop,compare_prices
+Show me price comparisons of Ergonomic Chair,compare_prices
+Best budget deal on Noise Cancelling Headphones,get_cheapest
+Do you like music?,other
+Who sells Desk Lamp for the least?,get_cheapest
+Who won the World Cup?,other
+Cheapest available Samsung Galaxy S23?,get_cheapest
+What's your favorite movie?,other
+Compare prices for Wireless Mouse,compare_prices
+Can you help me with homework?,other
+Get me the most affordable MacBook Pro,get_cheapest
+Show me the cheapest deal for Smartphone Case,get_cheapest
+Get me the most affordable Coffee Maker,get_cheapest
+Compare online prices of Ergonomic Chair,compare_prices
+Where can I buy the cheapest Desk Lamp?,get_cheapest
+What is 2 + 2?,other
+Tell me a joke.,other
+How's the weather today?,other
+How does the price of Canon DSLR Camera differ by store?,compare_prices
+What is the capital of France?,other
+Open Google.,other
+List all prices for Tablet,compare_prices
+Find me price listings for Smartphone Case,compare_prices
+Do you like music?,other
+Do you dream?,other
+Who won the World Cup?,other
+Cheapest available Samsung Galaxy S23?,get_cheapest
+Do you dream?,other
+Where can I buy the cheapest PlayStation 5?,get_cheapest
+Show price variations for HP OfficeJet Printer,compare_prices
+Best budget deal on Canon DSLR Camera,get_cheapest
